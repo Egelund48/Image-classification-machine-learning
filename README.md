@@ -1,2 +1,3 @@
-# Image-classification-machine-learning
-Dette er mit SRP forsøg om machine-learning. Mit dataset kommer fra fashion_mnist, som er 70000 billeder af tøj. Min model kan ud fra machine-learning vurdere, hvilket tøj er hvad. 
+# SRP-projekt
+ Dette er mit SRP forsøg, hvor jeg laver machine-learning til at lære at genkende 9 forskellige stykker tøj. Dette er en form for "Hello world" i machine-learning. Jeg bruger datasettet Fashion mnist, som kommer fra Zalando(mener jeg) og er 70.000 forskellige billeder af tøj 
+ i et (28x28) billede. 
